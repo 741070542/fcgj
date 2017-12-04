@@ -1,0 +1,15 @@
+[ 2017-08-01T13:33:33+08:00 ] 127.0.0.1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023458s ]
+
+[ 2017-08-01T13:33:33+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-08-01T13:33:33+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+

@@ -1,0 +1,299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head lang="en">
+
+    <title>复城国际T1线路导航</title>
+    <link rel="stylesheet" href="__PUBLIC__/home/font-awesome.min.css" />
+    <script src="__PUBLIC__/home/jquery-1.10.2.min.js"></script>
+    <script src="__PUBLIC__/home/all.js"></script>
+    <style type="text/css">
+        body, html, #allmap {
+            width: 100%;
+            height: 92%;
+        }
+
+        .map_info {
+            margin: 5px 5px 0;
+        }
+
+        .map_info a {
+            display: block;
+        }
+
+        .map_info a, .map-search {
+            width: 100%;
+            margin-bottom: 10px;
+            background-color: #AA7942;
+            color: #fff;
+        }
+
+        #driving_way {
+            padding: 5px;
+            display: none;
+        }
+
+        #driving_way select {
+            border: 1px solid #ccc;
+            background-color: #fff;
+            color: #505050;
+            margin-bottom: 10px;
+        }
+
+        .loader {
+            display: block;
+        }
+    </style>
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=2TCz6D07AMXafzr8rKafku8U"></script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta content="email=no" name="format-detection" />
+    <meta content="telephone=no" name="format-detection" />
+    <link rel="stylesheet" href="__PUBLIC__/home/all.css" />
+</head>
+<body>
+
+
+<div id="allmap"></div>
+<div id="r-result" style="display: none;"></div>
+<div class="map_info">
+
+    <a href="javascript:;" class="btn load" id="map_dao">行车导航 | 公交线路</a>
+</div>
+<!--公用底部-->
+<div class="bk5"></div>
+<a href="/" class="fx-logo ripplelink  load">
+    <i class="icon-double-angle-left"></i>
+    <img src="__PUBLIC__/home/logo.png" alt="" />
+</a>
+<script type="text/javascript">
+
+    window.onload = function () {
+        var startX, startY;
+        var bus = document.getElementById('map_bus');
+        var car = document.getElementById('map_car');
+        var allmap = document.getElementById('allmap');
+        var bgimg = document.getElementById('bgimg');
+        var allmap_img = allmap.getElementsByTagName('img');
+
+        var map = new BMap.Map("allmap");
+        var point,end;
+        point = end = new BMap.Point(104.062502, 30.556576);
+        //获取坐标
+        var current_loc = function (callback) {
+            var geolocation = new BMap.Geolocation();
+            geolocation.getCurrentPosition(function (r) {
+                if (this.getStatus() == BMAP_STATUS_SUCCESS) {
+                    var mk = new BMap.Marker(r.point);
+                    map.addOverlay(mk);
+                    map.panTo(r.point);
+                    callback(new BMap.Point(r.point.lng, r.point.lat));
+                }
+                else {
+                    alert('failed:' + this.getStatus());
+                    callback(null);;
+                }
+            }, { enableHighAccuracy: true });
+        }
+        map.centerAndZoom(point, 18);
+        //自定义覆盖物
+        function SquareOverlay(center, length, color) {
+            this._center = center;
+            this._length = length;
+            this._color = color;
+        }
+        SquareOverlay.prototype = new BMap.Overlay();
+        SquareOverlay.prototype.initialize = function (map) {
+            // 保存map对象实例
+            this._map = map;
+            // 创建div元素，作为自定义覆盖物的容器
+            var div = document.createElement("div");
+            div.setAttribute('id', 'bgimg');
+            div.style.position = "absolute";
+            // 可以根据参数设置元素外观
+            div.style.width = this._length - 30 + "px";
+            div.style.height = this._length + "px";
+            div.style.background = 'url(__PUBLIC__/home/baidumap.png) no-repeat';
+            div.style.backgroundSize = 'contain';
+            //div.ontouchstart = function () {
+            //    current_loc(function (latlng) {
+            //        var start = {
+            //            latlng: latlng,
+            //            name: ""
+            //        }
+            //        var end = {
+            //            latlng: new BMap.Point(104.062143, 30.556825),
+            //            name: "复城国际"
+            //        }
+            //        var opts = {
+            //            mode: BMAP_MODE_DRIVING,
+            //            region: "成都"
+            //        }
+            //        var ss = new BMap.RouteSearch();
+            //        ss.routeCall(start, end, opts);
+            //    });
+            //}
+            map.getPanes().markerPane.appendChild(div);
+            this._div = div;
+            return div;
+        }
+        SquareOverlay.prototype.draw = function () {
+            // 根据地理坐标转换为像素坐标，并设置给容器
+            var position = this._map.pointToOverlayPixel(this._center);
+            this._div.style.left = position.x - this._length / 2 + 30 + "px";
+            this._div.style.top = position.y - this._length / 2 - 15 + "px";
+        }
+        //自定义覆盖物添加事件方法
+        //SquareOverlay.prototype.addEventListener = function (event, fun) {
+        //    this._div['on' + event] = fun;
+        //}
+        //添加自定义覆盖物
+        var mySquare = new SquareOverlay(map.getCenter(), 100, "red");
+        map.addOverlay(mySquare);
+
+        ////提示
+        //var sContent =
+        //    "<h2 style='margin:0 0 5px 0;padding:0.2em 0;font-size:16px;'>复地·复城国际T1写字楼</h2>" +
+        //    "<p style='margin:0;line-height:1.5;font-size:13px;text-indent:2em'>点击楼图进行路线导航</p>" +
+        //    "</div>";
+        //var infoWindow = new BMap.InfoWindow(sContent);  // 创建信息窗口对象
+        //map.openInfoWindow(infoWindow, point); //开启信息窗口
+
+
+        //导航
+        $('#map_dao').bind("touchstart", function () {
+            current_loc(function (latlng) {
+                var start = {
+                    latlng: latlng,
+                    name: ""
+                }
+                var end = {
+                    latlng: new BMap.Point(104.062143, 30.556825),
+                    name: "复城国际"
+                }
+                var opts = {
+                    mode: BMAP_MODE_DRIVING,
+                    region: "成都"
+                }
+                var ss = new BMap.RouteSearch();
+                ss.routeCall(start, end, opts);
+            });
+        })
+
+        ////公交线路
+        //bus.onclick = function () {
+        //    current_loc(function (latlng) {
+        //        map.centerAndZoom(point, 18);
+        //        var transit = new BMap.TransitRoute(map, {
+        //            renderOptions: { map: map, panel: "r-result" },
+        //            onResultsHtmlSet: function () { $("#r-result").show() }
+        //        });
+        //        transit.search(latlng, end);
+        //        $("#bgimg").css({ "display": "none" });
+        //        setTimeout(function () {
+        //            $(".card-loading").css({ "display": "none" });
+
+        //        }, 2000)
+        //    });
+        //}
+        ////行车线路
+        //car.onclick = function () {
+        //    current_loc(function (latlng) {
+        //        var driving = new BMap.DrivingRoute(map, { renderOptions: { map: map, autoViewport: true } });
+        //        driving.search(latlng, end);
+        //        $("#bgimg").css({ "display": "none" });
+        //        setTimeout(function () {
+        //            $(".card-loading").css({ "display": "none" });
+
+        //        }, 2000)
+        //    });
+        //}
+
+        $(".loader").css({ "display": "none" });
+    }
+
+</script>
+
+
+
+<script src="__PUBLIC__/home/jweixin-1.0.0.js"></script>
+
+<script>
+    wx.config({
+        debug: false, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId: '{$signPackage["appId"]}', // 必填，公众号的唯一标识
+        timestamp: '{$signPackage["timestamp"]}', // 必填，生成签名的时间戳
+        nonceStr: '{$signPackage["nonceStr"]}', // 必填，生成签名的随机串
+        signature: '{$signPackage["signature"]}',// 必填，签名，见附录1
+        jsApiList: [
+            'onMenuShareTimeline',
+            'onMenuShareAppMessage'
+        ]
+    });
+</script>
+<script>
+    //判断是否微信客户端
+    var ua = navigator.userAgent.toLowerCase();//获取判断用的对象
+    if (ua.match(/MicroMessenger/i) == "micromessenger") {
+        //监听"分享给朋友",按钮点击，自定义分享内容及分享结果接口
+        var p = window.location.port == "" ? "" : ":" + window.location.port
+        var url = window.location.protocol + '//' + window.location.host + p;
+        wx.ready(function () {
+            wx.onMenuShareAppMessage({
+                title: '复城国际T1线路导航',
+                desc: '复城国际T1线路导航',
+                link: window.location.href,
+                imgUrl: '__PUBLIC__/home/fx.jpg',
+                trigger: function (res) {
+                    //不要尝试在trigger中使用ajax异步请求修改本次分享的内容，因为客户端分享操作是一个同步操作，这时候使用ajax的回包会还没有返回
+                    //alert('用户点击发送给朋友');
+                },
+                success: function (res) {
+                    //alert('已分享');
+                },
+                cancel: function (res) {
+                    //alert('已取消');
+                },
+                fail: function (res) {
+                    //alert(JSON.stringify(res));
+                }
+            });
+            wx.onMenuShareTimeline({
+                title: '复城国际T1线路导航',
+                desc: '复城国际T1线路导航',
+                link: window.location.href,
+                imgUrl: '__PUBLIC__/home/fx.jpg',
+                trigger: function (res) {
+                    // 不要尝试在trigger中使用ajax异步请求修改本次分享的内容，因为客户端分享操作是一个同步操作，这时候使用ajax的回包会还没有返回
+                    //alert('用户点击分享到朋友圈');
+                },
+                success: function (res) {
+                    //alert('已分享');
+                },
+                cancel: function (res) {
+                    //alert('已取消');
+                },
+                fail: function (res) {
+                    //alert(JSON.stringify(res));
+                }
+            });
+            // config信息验证后会执行ready方法，所有接口调用都必须在config接口获得结果之后，config是一个客户端的异步操作，所以如果需要在页面加载时就调用相关接口，则须把相关接口放在ready函数中调用来确保正确执行。对于用户触发时才调用的接口，则可以直接调用，不需要放在ready函数中。
+        });
+    }
+    else {
+
+    }
+
+</script>
+
+<div class="card-loading loader">
+    加载中
+    <div class="loader-inner ball-beat">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+</body>
+</html>

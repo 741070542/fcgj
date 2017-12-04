@@ -1,0 +1,375 @@
+[ 2017-05-25T09:22:51+08:00 ] 127.0.0.1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+
+[ 2017-05-25T09:22:51+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-05-25T09:22:52+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-05-25T09:39:49+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=71
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-05-25T09:39:54+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-05-25T09:39:57+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-05-25T09:39:57+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-05-25T09:40:05+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-05-25T09:40:08+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-05-25T09:40:20+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=94
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-05-25T09:40:25+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-05-25T09:40:29+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-05-25T09:40:29+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-05-25T09:42:19+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2017-05-25T09:42:19+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-05-25T09:42:27+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-05-25T09:43:13+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-05-25T09:43:16+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-05-25T09:43:20+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=73
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-05-25T09:43:25+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-05-25T09:43:28+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-05-25T09:43:28+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2017-05-25T09:44:42+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-05-25T09:45:24+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-05-25T09:45:28+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-05-25T09:45:33+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-05-25T09:46:41+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+
+[ 2017-05-25T09:46:41+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2017-05-25T09:46:48+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-05-25T09:46:51+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-05-25T09:47:40+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-05-25T09:47:40+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002345s ]
+
+[ 2017-05-25T09:48:29+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-05-25T09:48:29+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2017-05-25T09:48:38+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-05-25T09:48:42+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+
+[ 2017-05-25T09:50:25+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-05-25T09:50:25+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2017-05-25T09:50:33+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-05-25T09:50:36+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2017-05-25T09:51:43+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=64
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-05-25T09:51:48+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2017-05-25T09:53:02+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-05-25T09:53:02+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-05-25T09:53:08+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-05-25T09:53:13+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-05-25T09:56:09+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-05-25T09:56:12+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-05-25T09:56:12+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+
+[ 2017-05-25T09:56:17+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=32
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+
+[ 2017-05-25T09:56:23+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001530s ]
+
+[ 2017-05-25T09:56:26+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2017-05-25T09:56:26+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2017-05-25T09:57:17+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=74
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-05-25T09:57:20+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2017-05-25T09:57:24+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-05-25T09:58:45+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-05-25T09:58:45+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+
+[ 2017-05-25T09:58:53+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-05-25T09:59:30+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2017-05-25T09:59:35+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=93
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2017-05-25T09:59:40+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-05-25T10:00:47+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-05-25T10:00:47+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2017-05-25T10:00:51+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=96
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-05-25T10:00:59+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-05-25T10:02:09+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-05-25T10:02:09+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-05-25T10:02:13+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-05-25T10:02:19+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2017-05-25T10:02:22+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-05-25T10:02:22+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-05-25T10:02:29+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-05-25T10:04:34+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-05-25T10:04:34+08:00 ] 127.0.0.1 /Admin/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+

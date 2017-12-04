@@ -1,0 +1,10 @@
+[ 2017-05-18T17:57:47+08:00 ] 127.0.0.1 /Merchants/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-05-18T17:57:47+08:00 ] 127.0.0.1 /Merchants/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+

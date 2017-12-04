@@ -1,0 +1,249 @@
+﻿<extend name="Public:index" />
+<!-- page heading start-->
+<block name="content">
+
+    <div class="pageheader">
+      <h2><i class="fa fa-table"></i> 复城国际 <span>复城国际后台管理系统</span></h2>
+      <div class="breadcrumb-wrapper">
+        <span class="label">你在这里:</span>
+        <ol class="breadcrumb">
+          <li style="color: royalblue">房源推荐</li>
+        </ol>
+      </div>
+    </div>
+
+  <div class="contentpanel">
+
+    <div class="panel panel-default">
+      <div class="panel-body panel-body-nopadding">
+        <form class="form-horizontal form-bordered" action="{:U('Admin/Room/edit')}" method="post" enctype="multipart/form-data">
+
+          <input type="hidden" value="{$info.id}" name="id">
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">标题</label>
+            <div class="col-sm-6">
+              <input name="tiele" type="text" value="{$info.tiele}" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">简介</label>
+            <div class="col-sm-6">
+              <input name="profile" type="text" value="{$info.profile}" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">总楼层</label>
+            <div class="col-sm-6">
+              <input name="floor" value="{$info.floor}" type="number" min="1" max="10000" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">几层</label>
+            <div class="col-sm-6">
+              <input name="few" value="{$info.few}" type="number" min="1" max="10000" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">门牌号</label>
+            <div class="col-sm-6">
+              <input name="addresses" value="{$info.addresses}" type="text" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">面积</label>
+            <div class="col-sm-6">
+              <input name="area" value="{$info.area}" type="number" min="1" max="100000000" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">房源类型</label>
+            <div class="col-sm-6">
+              <select name="type" id="type" class="form-control">
+                <option value="1" <eq name="info.type" value="1">selected = "selected"</eq>>精装</option>
+                <option value="2" <eq name="info.type" value="2">selected = "selected"</eq>>清水</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">户型</label>
+            <div class="col-sm-6">
+              <input name="family" value="{$info.family}" type="text" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">净高层</label>
+            <div class="col-sm-6">
+              <input name="nettop" type="text" value="4" class="form-control" disabled=""/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">物业费</label>
+            <div class="col-sm-6">
+              <input name="cost" value="{$info.cost}" type="number" min="1" max="100000000" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">最小租金</label>
+            <div class="col-sm-6">
+              <input name="small_rent" value="{$info.small_rent}" type="number" min="1" max="100000000" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">最大租金</label>
+            <div class="col-sm-6">
+              <input name="large_rent" value="{$info.large_rent}" type="number" min="1" max="100000000" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">朝向</label>
+            <div class="col-sm-6">
+              <input name="toward" value="{$info.toward}" type="text" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">备注</label>
+            <div class="col-sm-6">
+              <input name="remark" value="{$info.remark}" type="text" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">是否推荐</label>
+            <div class="col-sm-6">
+              <select name="is_recommend" id="is_recommend" class="form-control">
+                <option value="1" <eq name="info.is_recommend" value="1">selected = "selected"</eq>>是</option>
+                <option value="2" <eq name="info.is_recommend" value="2">selected = "selected"</eq>>否</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">点击量</label>
+            <div class="col-sm-6">
+              <input name="click" value="{$info.click}" type="number" min="1" max="100000000" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">排序值</label>
+            <div class="col-sm-6">
+              <input name="sequencing" value="{$info.sequencing}" type="number" min="1" max="100000000" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">首页图片</label>
+            <div class="col-sm-6">
+              <input type="file" name="img1[]" accept="image/gif,image/jpeg,image/jpg,image/png" class="form-control" />
+              <a href="{$info.img}" target="_blank"><img src="{$info.img}" style="width: 50px"></a>
+              首页图片(宽:425px,高:300px)
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="col-sm-3 control-label">展示图片</label>
+            <div class="col-sm-6">
+
+              <table class="" id="">
+                <tr class="gradeA">
+                <volist name="img" id="list">
+                    <td class="center">
+                      <a href="{$list.img}" target="_blank"><img src="{$list.img}" style="width: 50px;height: 50px"></a>
+                      <a class="" style="text-decoration:none" onClick="picture_del(this,'{:U('Admin/Room/detes',array('id'=>$list['id']))}')" href="javascript:;"><i class="fa fa-trash-o"></i></a>
+                      &nbsp;&nbsp;&nbsp;
+                    </td>
+                </volist>
+                </tr>
+              </table>
+
+              <br>
+              <br>
+              <div id="InputsWrapper">
+              </div>
+              <a href="#" id="AddMoreFileBox" class="btn btn-primary">添加更多的展示图片</a>
+            </div>
+          </div>
+
+          <div class="panel-footer">
+            <div class="row">
+              <div class="col-sm-6 col-sm-offset-3">
+                <button class="btn btn-primary">提交</button>&nbsp;
+                <button class="btn btn-default">取消</button>
+              </div>
+            </div>
+          </div>
+
+        </form>
+
+      </div><!-- panel-body -->
+    </div><!-- panel -->
+  </div><!-- panel -->
+</block>
+<block name="js">
+  <script>
+    $(document).ready(function() {
+      var MaxInputs    = 8; //maximum input boxes allowed
+      var InputsWrapper  = $("#InputsWrapper"); //Input boxes wrapper ID
+      var AddButton    = $("#AddMoreFileBox"); //Add button ID
+      var x = InputsWrapper.length; //initlal text box count
+      var FieldCount=1; //to keep track of text box added
+      $(AddButton).click(function (e) //on add input button click
+      {
+        if(x <= MaxInputs) //max input box allowed
+        {
+          FieldCount++; //text box added increment
+          //add input box
+          $(InputsWrapper).append('<div><br><input type="file" name="mytext[]" style="display: inline-block;vertical-align: middle;width: 200px" id="field_'+ FieldCount +'" value="Text '+ FieldCount +'"/><a href="#" class="removeclass"><input type="button" class="btn btn-primary" value="删除"></a></div>');
+          x++; //text box increment
+        }
+        return false;
+      });
+      $("body").on("click",".removeclass", function(e){ //user click on remove text
+        if( x > 1 ) {
+          $(this).parent('div').remove(); //remove text box
+          x--; //decrement textbox
+        }
+        return false;
+      })
+    });
+  </script>
+  <script>
+    /*删除*/
+    function picture_del(obj,id){
+      layer.confirm('确认要删除吗？',function(index){
+        $.ajax({
+          type: 'POST',
+          url: '/Admin/Room/detes/id/'+id,
+          dataType: 'json',
+          success: function(data){
+            if(data.status == 1){
+              $(obj).parents("td").remove();
+              layer.msg('已删除!',{icon:1,time:1000});
+            }else{
+              layer.msg(data.info,{icon:2,time:1000});
+            }
+          },
+          error:function(data) {
+            console.log(data.msg);
+          },
+        });
+      });
+    }
+  </script>
+
+</block>
+

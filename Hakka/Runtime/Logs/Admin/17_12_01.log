@@ -1,0 +1,820 @@
+[ 2017-12-01T10:06:19+08:00 ] 127.0.0.1 /Admin/Message/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-12-01T10:06:19+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2017-12-01T10:06:25+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-12-01T10:06:26+08:00 ] 127.0.0.1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+
+[ 2017-12-01T10:36:31+08:00 ] 127.0.0.1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2017-12-01T10:36:43+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2017-12-01T10:37:50+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-12-01T10:40:00+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-12-01T10:46:54+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+
+[ 2017-12-01T10:47:22+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-12-01T10:51:48+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-12-01T10:52:46+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-12-01T10:52:51+08:00 ] 127.0.0.1 /Admin/News/php/image.php?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 非法操作:php
+
+[ 2017-12-01T10:53:37+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-12-01T10:53:42+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-12-01T10:53:47+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 非法操作:oie4y017g.bkt.clouddn.com
+
+[ 2017-12-01T10:54:16+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2017-12-01T10:56:44+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2017-12-01T10:58:46+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+
+[ 2017-12-01T10:59:03+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com/image.php?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 非法操作:oie4y017g.bkt.clouddn.com
+
+[ 2017-12-01T10:59:27+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2017-12-01T11:00:02+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-12-01T11:00:10+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-12-01T11:01:52+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-12-01T11:02:15+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+
+[ 2017-12-01T11:05:59+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-12-01T11:11:46+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-12-01T11:11:51+08:00 ] 127.0.0.1 /Admin/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-12-01T11:11:52+08:00 ] 127.0.0.1 /Admin/News/lists.html?draw=1&columns%5B0%5D%5Bdata%5D=title&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=classname&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=time&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=content&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=zan&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=click&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=sequencing&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512097911669
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0168s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_news` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,d.classname FROM hak_news a INNER JOIN hak_classs as d   ON d.id = a.clas_id  ORDER BY sorting desc LIMIT 0,10   [ RunTime:0.0109s ]
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001141s ]
+
+[ 2017-12-01T11:11:57+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-12-01T11:12:47+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 非法操作:oie4y017g.bkt.clouddn.com
+
+[ 2017-12-01T11:12:54+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 非法操作:oie4y017g.bkt.clouddn.com
+
+[ 2017-12-01T11:16:19+08:00 ] 127.0.0.1 /Admin/Message/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-12-01T11:16:19+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-12-01T11:16:25+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-12-01T11:16:26+08:00 ] 127.0.0.1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+
+[ 2017-12-01T11:16:35+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-12-01T11:19:09+08:00 ] 127.0.0.1 /Admin/Message/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-12-01T11:19:09+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+
+[ 2017-12-01T11:19:15+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-12-01T11:19:16+08:00 ] 127.0.0.1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-12-01T11:19:22+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-12-01T11:19:41+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-12-01T11:19:41+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-12-01T11:21:15+08:00 ] 127.0.0.1 /Admin/Message/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-12-01T11:21:15+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-12-01T11:21:16+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-12-01T11:21:21+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-12-01T11:21:23+08:00 ] 127.0.0.1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2017-12-01T11:22:14+08:00 ] 127.0.0.1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-12-01T11:22:14+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-12-01T11:22:15+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-12-01T11:27:13+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-12-01T11:30:09+08:00 ] 127.0.0.1 /Admin/Message/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-12-01T11:30:09+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2017-12-01T11:30:15+08:00 ] 127.0.0.1 /Admin/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-12-01T11:30:16+08:00 ] 127.0.0.1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+
+[ 2017-12-01T11:30:21+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-12-01T11:31:16+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com/IMG_20131230_235908.JPG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-12-01T11:31:31+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-12-01T11:31:32+08:00 ] 127.0.0.1 /Admin/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-12-01T11:31:33+08:00 ] 127.0.0.1 /Admin/News/lists.html?draw=1&columns%5B0%5D%5Bdata%5D=title&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=classname&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=time&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=content&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=zan&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=click&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=sequencing&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512099092657
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0173s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_news` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,d.classname FROM hak_news a INNER JOIN hak_classs as d   ON d.id = a.clas_id  ORDER BY sorting desc LIMIT 0,10   [ RunTime:0.0178s ]
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001974s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002212s ]
+
+[ 2017-12-01T11:31:40+08:00 ] 127.0.0.1 /Admin/News/lists.html?draw=2&columns%5B0%5D%5Bdata%5D=title&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=classname&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=time&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=content&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=zan&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=click&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=sequencing&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=10&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512099092658
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0189s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0153s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_news` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT a.*,d.classname FROM hak_news a INNER JOIN hak_classs as d   ON d.id = a.clas_id  ORDER BY sorting desc LIMIT 10,10   [ RunTime:0.0374s ]
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002020s ]
+
+[ 2017-12-01T11:31:48+08:00 ] 127.0.0.1 /Admin/News/edit/id/20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2017-12-01T11:31:49+08:00 ] 127.0.0.1 /Admin/News/edit/id/oie4y017g.bkt.clouddn.com/IMG_20131230_235908.JPG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-12-01T11:32:35+08:00 ] 127.0.0.1 /Admin/News/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2017-12-01T11:32:36+08:00 ] 127.0.0.1 /Admin/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-12-01T11:32:38+08:00 ] 127.0.0.1 /Admin/News/lists.html?draw=1&columns%5B0%5D%5Bdata%5D=title&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=classname&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=time&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=content&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=zan&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=click&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=sequencing&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512099157024
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0167s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0153s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_news` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT a.*,d.classname FROM hak_news a INNER JOIN hak_classs as d   ON d.id = a.clas_id  ORDER BY sorting desc LIMIT 0,10   [ RunTime:0.0104s ]
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001240s ]
+
+[ 2017-12-01T11:32:41+08:00 ] 127.0.0.1 /Admin/News/lists.html?draw=2&columns%5B0%5D%5Bdata%5D=title&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=classname&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=time&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=content&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=zan&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=click&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=sequencing&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=10&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512099157025
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0199s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0166s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_news` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT a.*,d.classname FROM hak_news a INNER JOIN hak_classs as d   ON d.id = a.clas_id  ORDER BY sorting desc LIMIT 10,10   [ RunTime:0.0113s ]
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001095s ]
+
+[ 2017-12-01T11:32:44+08:00 ] 127.0.0.1 /Admin/News/edit/id/20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-12-01T11:32:44+08:00 ] 127.0.0.1 /Admin/News/edit/id/oie4y017g.bkt.clouddn.com/IMG_20131230_235908.JPG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-12-01T11:40:10+08:00 ] 127.0.0.1 /Admin/News/lists.html?draw=1&columns%5B0%5D%5Bdata%5D=title&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=classname&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=time&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=content&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=zan&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=click&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=sequencing&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512099609681
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0085s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_news` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT a.*,d.classname FROM hak_news a INNER JOIN hak_classs as d   ON d.id = a.clas_id  ORDER BY sorting desc LIMIT 0,10   [ RunTime:0.0073s ]
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001165s ]
+
+[ 2017-12-01T11:40:14+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-12-01T11:40:17+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-12-01T11:40:42+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com/-1a1ed47f3f67fb59.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+ERR: 非法操作:oie4y017g.bkt.clouddn.com
+
+[ 2017-12-01T11:40:48+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2017-12-01T11:41:41+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-12-01T11:41:49+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-12-01T11:42:07+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-12-01T11:42:22+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+
+[ 2017-12-01T11:42:35+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-12-01T11:43:43+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com/-1a1ed47f3f67fb59%20-%20%E5%89%AF%E6%9C%AC.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 非法操作:oie4y017g.bkt.clouddn.com
+
+[ 2017-12-01T11:54:48+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com/-1a1ed47f3f67fb59%20-%E5%89%AF%E6%9C%AC.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 非法操作:oie4y017g.bkt.clouddn.com
+
+[ 2017-12-01T11:55:26+08:00 ] 127.0.0.1 /Admin/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2017-12-01T11:55:28+08:00 ] 127.0.0.1 /Admin/News/lists.html?draw=1&columns%5B0%5D%5Bdata%5D=title&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=classname&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=time&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=content&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=zan&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=click&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=sequencing&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512100527007
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0114s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_news` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT a.*,d.classname FROM hak_news a INNER JOIN hak_classs as d   ON d.id = a.clas_id  ORDER BY sorting desc LIMIT 0,10   [ RunTime:0.0113s ]
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000992s ]
+
+[ 2017-12-01T11:55:34+08:00 ] 127.0.0.1 /Admin/News/lists.html?draw=2&columns%5B0%5D%5Bdata%5D=title&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=classname&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=time&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=content&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=zan&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=click&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=sequencing&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=10&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512100527008
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0161s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0169s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_news` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT a.*,d.classname FROM hak_news a INNER JOIN hak_classs as d   ON d.id = a.clas_id  ORDER BY sorting desc LIMIT 10,10   [ RunTime:0.0168s ]
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001887s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002017s ]
+
+[ 2017-12-01T11:57:11+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com/-1a1ed47f3f67fb59%20-%E5%89%AF%E6%9C%AC.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 非法操作:oie4y017g.bkt.clouddn.com
+
+[ 2017-12-01T11:58:26+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-12-01T11:58:47+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com/2013-06-07-245.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2017-12-01T11:59:45+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-12-01T12:00:20+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com/607afc5cd9c2ef78.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+
+[ 2017-12-01T12:02:26+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-12-01T12:02:35+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-12-01T12:03:01+08:00 ] 127.0.0.1 /Admin/News/oie4y017g.bkt.clouddn.com/-1a1ed47f3f67fb59%20-%20%E5%89%AF%E6%9C%AC.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 非法操作:oie4y017g.bkt.clouddn.com
+
+[ 2017-12-01T12:09:48+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-12-01T12:09:51+08:00 ] 127.0.0.1 /Admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-12-01T12:13:03+08:00 ] 127.0.0.1 /Admin/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-12-01T12:13:05+08:00 ] 127.0.0.1 /Admin/News/lists.html?draw=1&columns%5B0%5D%5Bdata%5D=title&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=classname&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=time&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=content&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=zan&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=click&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=sequencing&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512101584003
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0148s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_news` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT a.*,d.classname FROM hak_news a INNER JOIN hak_classs as d   ON d.id = a.clas_id  ORDER BY sorting desc LIMIT 0,10   [ RunTime:0.0155s ]
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001807s ]
+
+[ 2017-12-01T12:19:04+08:00 ] 127.0.0.1 /Admin/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2017-12-01T12:19:05+08:00 ] 127.0.0.1 /Admin/Message/lists.html?draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=phone&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=name&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=source&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=reservation&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=message&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=time&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=status&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512101944252
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0207s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\MessageController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_message` [ RunTime:0.0869s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_message` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `hak_message` LIMIT 0,10   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `hak_room` [ RunTime:0.0164s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = 121212 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = null LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = null LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = null LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = null LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = null LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001300s ]
+
+[ 2017-12-01T12:19:10+08:00 ] 127.0.0.1 /Admin/Lease/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-12-01T16:46:17+08:00 ] 127.0.0.1 /Admin/Classs/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-12-01T16:46:23+08:00 ] 127.0.0.1 /Admin/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-12-01T16:46:24+08:00 ] 127.0.0.1 /Admin/Message/lists.html?draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=phone&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=name&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=source&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=reservation&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=message&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=time&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=status&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512117983766
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\MessageController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_message` [ RunTime:0.0055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_message` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `hak_message` LIMIT 0,10   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `hak_room` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = 121212 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hak_room` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-12-01T16:46:29+08:00 ] 127.0.0.1 /Admin/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-12-01T16:46:30+08:00 ] 127.0.0.1 /Admin/News/lists.html?draw=1&columns%5B0%5D%5Bdata%5D=title&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=classname&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=time&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=content&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=zan&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=click&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=sequencing&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1512117989051
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `hak_admin` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `hak_admin` WHERE `admin_id` = 1 AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php on line 24 and defined E:\fuchengguoji\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\fuchengguoji\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0166s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hak_news` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,d.classname FROM hak_news a INNER JOIN hak_classs as d   ON d.id = a.clas_id  ORDER BY sorting desc LIMIT 0,10   [ RunTime:0.0114s ]
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+NOTIC: [8] Undefined index: status E:\fuchengguoji\Hakka\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001132s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001211s ]
+

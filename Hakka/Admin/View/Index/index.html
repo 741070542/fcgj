@@ -1,0 +1,47 @@
+﻿<extend name="Public:index" />
+<!-- page heading start-->
+<block name="content">
+
+    <div class="pageheader">
+      <h2><i class="fa fa-table"></i> 复城国际 <span>复城国际后台管理系统</span></h2>
+      <div class="breadcrumb-wrapper">
+        <span class="label">你在这里:</span>
+        <ol class="breadcrumb">
+          <li style="color: royalblue">首页</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="contentpanel">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <div class="panel-btns">
+            <a href="" class="panel-close">&times;</a>
+            <a href="" class="minimize">&minus;</a>
+          </div><!-- panel-btns -->
+          <h3 class="panel-title">首页</h3>
+        </div>
+        <div class="panel-body">
+          <br />
+          <div class="table-responsive">
+              <table class="table table-striped" id="table2">
+                <thead>
+                <tr>
+                  <th>服务器信息</th>
+                </tr>
+                </thead>
+
+                <tbody>
+                <volist name="info" id="v">
+                  <tr>
+                    <td width="30%">{$key}：</td>
+                    <td>{$v}</td>
+                  </tr>
+                </volist>
+                </tbody>
+              </table>
+          </div><!-- table-responsive -->
+        </div><!-- panel-body -->
+      </div><!-- panel -->
+    </div><!-- contentpanel -->
+</block>

@@ -1,0 +1,662 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head lang="en">
+    
+    <meta charset="utf-8">
+    <title>复城国际T1楼书</title>
+    <link rel="stylesheet" href="__PUBLIC__/home/swiper.min.css">
+    <link rel="stylesheet" href="__PUBLIC__/home/animate.min.css">
+    <script src="__PUBLIC__/home/jquery-1.10.2.min.js"></script>
+    <script src="__PUBLIC__/home/swiper.min.js"></script>
+    <script src="__PUBLIC__/home/swiper.animate.min.js"></script>
+    <style>
+body,html {
+	height: 100%
+}
+
+.swiper-container {
+	width: 100%;
+	height: 100%;
+	background: #fff
+}
+
+.swiper-bg1 {
+	background: url(__PUBLIC__/home/upload/slide01.jpg) no-repeat;
+	background-size: cover
+}
+
+.swiper-bg1,.swiper-bg2,.swiper-bg3,.swiper-bg4,.swiper-bg5,.swiper-bg6,.swiper-bg7 {
+	width: 100%;
+	height: 100%;
+	animation: slidebg 25s infinite linear backwards
+}
+
+.swiper-bg2 {
+	background: url(__PUBLIC__/home/slidebg2.jpg) no-repeat;
+	background-size: cover
+}
+
+.swiper-bg3 {
+	background: url(__PUBLIC__/home/upload/slide03.jpg) no-repeat;
+	background-size: cover
+}
+.swiper-bg5 {
+	background: url(__PUBLIC__/home/upload/slide05.jpg) no-repeat;
+	background-size: cover
+}
+.swiper-bg6{
+    background: url(__PUBLIC__/home/upload/slide06.jpg) no-repeat;
+	background-size: cover
+}
+.swiper-bg7{
+     background: url(__PUBLIC__/home/upload/page7.png) no-repeat;
+	background-size: cover
+}
+@-webkit-keyframes slidebg {
+	0% {
+		background-position: 0 0
+	}
+
+	50% {
+		background-position: 99% 0
+	}
+}
+
+@keyframes slidebg {
+	0%,to {
+		background-position: 0 0
+	}
+
+	50% {
+		background-position: 99% 0
+	}
+
+	to {
+		background-position: 0 0
+	}
+}
+
+img {
+	display: block
+}
+
+.swiper-pagination-bullet {
+	width: 6px;
+	height: 6px;
+	background: #fff;
+	opacity: .4
+}
+
+.swiper-pagination-bullet-active {
+	opacity: 1
+}
+
+@-webkit-keyframes tipmove {
+	0% {
+		bottom: 10px;
+		opacity: 0
+	}
+
+	50% {
+		bottom: 15px;
+		opacity: 1
+	}
+
+	to {
+		bottom: 20px;
+		opacity: 0
+	}
+}
+
+#array,.ani,.txt {
+	position: absolute
+}
+
+#array {
+	z-index: 999;
+	-webkit-animation: tipmove 1.5s infinite ease-in-out
+}
+
+.p-center {
+	position: absolute;
+	width: 100%;
+	color: #fff;
+	font-size: 14px;
+	text-align: center
+}
+
+.swiper-bg3 p em {
+	font-size: 17px;
+	color: #fff;
+	font-weight: 700;
+	display: block;
+	font-style: normal
+}
+
+.swiper-bg3 p span {
+	font-weight: 400;
+	font-size: 9pt;
+	color: #fff;
+	display: block
+}
+
+.swiper-bg3 strong {
+	color: #a97a43;
+	font-size: 15px;
+	display: block;
+	width: 100%;
+	text-align: center
+}
+
+.swiper-bg4 p {
+	padding: 5px 0;
+	background-color: #a97a45;
+	color: #fff;
+	text-align: center;
+	width: 100%;
+	font-size: 1.4rem
+}
+
+.swiper-bg4 strong {
+	font-style: normal;
+	color: #a97a45;
+	text-align: center;
+	width: 100%;
+	font-size: 1.2rem
+}
+
+.slide-menu {
+	margin-top: 10px
+}
+
+.slide-main,.slide-menu {
+	background: hsla(0,0%,100%,.5);
+	padding: 10px;
+	border-radius: 4px
+}
+
+.slide-form {
+	position: absolute;
+	width: 80%;
+	top: 50%;
+	margin-left: -40%;
+	left: 50%;
+	margin-top: -50%
+}
+
+.btn-zu {
+	background: #a97a45;
+	color: #fff;
+	width: 100%
+}
+
+.slide-f-title {
+	text-align: center
+}
+
+.slide-f-title img {
+	width: 70%;
+	display: inline-block;
+	margin-bottom: 10px
+}
+
+.p-center2 {
+	letter-spacing: 5px;
+	color: #a97a45
+}
+
+.music {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	-webkit-animation: rotateLoop 2s linear infinite;
+	z-index: 9999
+}
+
+.music img {
+	width: 30px;
+	height: 30px
+}
+
+@-webkit-keyframes rotateLoop {
+	0% {
+		-webkit-transform: rotate(0deg)
+	}
+
+	to {
+		-webkit-transform: rotate(360deg)
+	}
+}
+
+.slide-menu ul li {
+	float: left;
+	width: 25%;
+	text-align: center;
+	font-size: 1.2rem
+}
+
+.slide-menu ul li a {
+	color: #a97a43
+}
+
+.slide-menu ul li img {
+	width: 75%;
+	margin: 3px auto
+}
+
+.loader-inner {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: 999;
+	display: block;
+	transform: translate(-50%,-100%);
+	width: 30%;
+	height: 20px
+}
+
+.loader-show {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: #fff;
+	top: 0;
+	left: 0;
+	z-index: 9999
+}
+
+.loader-inner img {
+	width: 100%
+}
+
+.number-pb {
+	height: 3px;
+	background-color: #ddd;
+	margin: 15px 0
+}
+
+.number-pb-shown.sun {
+	width: 99%;
+	background-image: linear-gradient(to right,#0f1b58,#e0a681,#e5e9bf);
+	box-shadow: 0 0 3px 0 #e5e9bf;
+	height: 3px;
+	animation: number-show 3s linear backwards
+}
+
+@keyframes number-show {
+	0% {
+		width: 1%
+	}
+
+	to {
+		width: 99%
+	}
+}
+
+@-webkit-keyframes number-show {
+	0% {
+		width: 1%
+	}
+
+	to {
+		width: 99%
+	}
+}</style>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta content="email=no" name="format-detection" />
+    <meta content="telephone=no" name="format-detection" />
+    <link rel="stylesheet" href="__PUBLIC__/home/all.css" />
+</head>
+<body>
+   
+    
+    
+        
+        <div class="loader-show">
+          <div class="loader-inner line-scale">
+              <img src="__PUBLIC__/home/logo.png" alt="" />
+              <div class="number-pb">
+                  <div class="number-pb-shown sun"></div>
+                  
+              </div>
+        </div>
+            </div>
+    <div class="swiper-container">
+        <div class="music">
+            <div class="test"></div>
+            <img src="__PUBLIC__/home/music-open.png" alt="">
+        </div>
+
+        <div class="swiper-wrapper">
+            <!--page1-->
+            <section class="swiper-slide swiper-bg1">
+                <img src="__PUBLIC__/home/upload/s-page1.png" class="ani resize" style="width:320px;left:0;top:50px;z-index:3;"
+                     swiper-animate-effect="fadeInDown" swiper-animate-duration="1s" swiper-animate-delay="0.3s">
+                <img src="__PUBLIC__/home/upload/s-page2.png" class="ani resize" style="width:320px;left:0;top:50px;z-index:3;"
+                     swiper-animate-effect="fadeInLeft" swiper-animate-duration="1s" swiper-animate-delay="0.8s">
+                <img src="__PUBLIC__/home/upload/s-page3.png" class="ani resize" style="width:320px;left:0;top:50px;z-index:3;"
+                     swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="1.5s">
+                <img src="__PUBLIC__/home/swiper01.png" class="p-center ani resize" style="width:230px; left: 50px;top:100px;" swiper-animate-effect="bounceInLeft" swiper-animate-duration="2" swiper-animate-delay="2s" />
+                <p class="p-center p-center2 ani resize" style="left: 0;bottom: 75px;" swiper-animate-effect="bounceIn" swiper-animate-duration="2.5s" swiper-animate-delay="2s"> 单一业权管理，星级物业服务<br>开启城南都市繁华</p>
+            </section>
+            <!--page2-->
+            <section class="swiper-slide swiper-bg2">
+                <img src="__PUBLIC__/home/swiperpage2.png" class="ani resize" style="width: 320px; left: 0;top:0;"
+                     swiper-animate-effect="bounceInDown" swiper-animate-duration="1s" swiper-animate-delay="0.5s" alt="" />
+                 <img src="__PUBLIC__/home/swiperpage02.png" class="ani resize" style="width: 320px; left: 0;top:0;"
+                     swiper-animate-effect="zoomIn" swiper-animate-duration="1.5s" swiper-animate-delay="1s" alt="" />
+                <img src="__PUBLIC__/home/upload/txt1.png" class="ani resize" style="width:150px;left:90px;bottom: 150px;"
+                     swiper-animate-effect="lightSpeedIn" swiper-animate-duration="2s" swiper-animate-delay="1.5s" alt="" />
+                <img src="__PUBLIC__/home/upload/txt2.png" class="ani resize" style="width:150px;left:90px;bottom: 80px;"
+                     swiper-animate-effect="lightSpeedIn" swiper-animate-duration="2s" swiper-animate-delay="2s" alt="" />
+            </section>
+            <!--page3-->
+            <section class="swiper-slide swiper-bg3">
+                <p style="top:40px;left: 5px; font-weight:bold;" class="ani resize" swiper-animate-effect="bounceInDown" swiper-animate-duration="1s" swiper-animate-delay="0s">
+                    <em>立体式商业配套“一站式” 乐活商务</em>
+
+                </p>
+                <p style="top:70px;left: 5px;" class="ani resize" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1.2s" swiper-animate-delay="1s">
+                    <span style="margin-right:33px;">中央公园，顶级影院，健身会所，大型超市，多元美食等商务、生活配套立体呈现......</span>
+
+                </p>
+                <img src="__PUBLIC__/home/upload/img001.png" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1.5s" swiper-animate-delay="1.5s" class="ani resize"
+                     style="width: 120px; top:130px;left: 5px;" alt="" />
+                <img src="__PUBLIC__/home/upload/img002.png" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1.5s" swiper-animate-delay="1.7s" class="ani resize" style="width: 120px; top:130px;left: 135px;" alt="" />
+                <img src="__PUBLIC__/home/upload/img003.png" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1.5s" swiper-animate-delay="2s" class="ani resize" style="width: 120px; top:165px;left: 5px;" alt="" />
+                <img src="__PUBLIC__/home/upload/img004.png" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1.5s" swiper-animate-delay="2.2s" class="ani resize" style="width: 120px; top:165px;left: 135px;" alt="" />
+                <strong class="ani resize" style="bottom: 80px;left: 0;" data-slide-in="at 3000 from fadeInUp use swing during 1000">"一站式" 乐活商务即将闪耀天府</strong>
+            </section>
+            <!--page4-->
+            <section class="swiper-slide swiper-bg4">
+
+                <img src="__PUBLIC__/home/upload/1(2).png" class="ani resize" swiper-animate-effect="fadeInLeft" swiper-animate-duration="0.5s" swiper-animate-delay="0.2s" style="width:320px; top:0;left: 0; z-index:2"
+                     alt="" />
+                <img src="__PUBLIC__/home/upload/2(3).png" class="ani resize" swiper-animate-effect="fadeInDown" swiper-animate-duration="1s" swiper-animate-delay="0.8s" style="width:320px; top:0;left: 0; z-index:3"
+                     alt="" />
+                <img src="__PUBLIC__/home/upload/3(1).png" class="ani resize" swiper-animate-effect="zoomIn" swiper-animate-duration="1.2s" swiper-animate-delay="1.5s" style="width:320px; top:0;left: 0; z-index:6"
+                     alt="" />
+                <img src="__PUBLIC__/home/upload/4(4).png" class="ani resize" swiper-animate-effect="zoomIn" swiper-animate-duration="1.4s" swiper-animate-delay="2s" style="width:320px; top:0;left: 0; z-index:4"
+                     alt="" />
+                <img src="__PUBLIC__/home/upload/5(5).png" class="ani resize" swiper-animate-effect="zoomIn" swiper-animate-duration="1.6s" swiper-animate-delay="2.7s" style="width:320px; top:0;left: 0; z-index:5"
+                     alt="" />
+                <img src="__PUBLIC__/home/upload/6(6).png" class="ani resize" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="3.5s" style="width:320px; top:0;left: 0; z-index:5"
+                     alt="" />
+                <img src="__PUBLIC__/home/upload/radius.png" class="ani resize" swiper-animate-effect="zoomIn" swiper-animate-duration="1.5s" swiper-animate-delay="4s" style="width: 295px;left: -5px;top:80px;z-index: 1" alt="" />
+                <img src="__PUBLIC__/home/map_bottom.png" class="ani resize"style="width:320px;bottom: 0;z-index:999" alt="" />
+            </section>
+            <!--page6-->
+            <section class="swiper-slide swiper-bg6">
+                <img src="__PUBLIC__/home/upload/page6_01.png" class="ani resize" style="width:320px; top:35px;left: 0; z-index:5" swiper-animate-effect="fadeInDown" swiper-animate-duration="1s" swiper-animate-delay="0.5s" alt="" />
+                <img src="__PUBLIC__/home/upload/page6_02.png" class="ani resize" style="width:320px; top:105px;left: 0; z-index:5" swiper-animate-effect="fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="1s" alt="" />
+                 <img src="__PUBLIC__/home/upload/page6_btn1.png" class="ani resize" style="width:100px; bottom:75px;left: 55px; z-index:5" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1s" swiper-animate-delay="1.2s" alt="" />
+                <img src="__PUBLIC__/home/upload/page6_btn2.png" class="ani resize" style="width:100px; bottom:75px;right: 55px; z-index:5" swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="1.5s" alt="" />
+                <img src="__PUBLIC__/home/upload/page_text.png" class="ani resize" style="width:320px; bottom:45px;left: 0; z-index:5" swiper-animate-effect="fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="2s" alt="" />
+
+            </section>
+            <!--page7-->
+            <section class="swiper-slide swiper-bg7">
+                <img src="__PUBLIC__/home/upload/page7_01.png" class="ani resize" style="width:320px; top:35px;left: 0; z-index:5" swiper-animate-effect="fadeInDown" swiper-animate-duration="1s" swiper-animate-delay="0.5s" alt="" />
+                <img src="__PUBLIC__/home/upload/page7_02.png" class="ani resize" style="width:320px; top:105px;left: 0; z-index:5" swiper-animate-effect="fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="1s" alt="" />
+                 <img src="__PUBLIC__/home/upload/page7_03.png" class="ani resize" style="width:320px; bottom:145px;left: 0; z-index:5" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1s" swiper-animate-delay="1.2s" alt="" />
+                <img src="__PUBLIC__/home/upload/page7_04.png" class="ani resize" style="width:320px; bottom:75px;left: 0; z-index:5" swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="1.5s" alt="" />
+                <img src="__PUBLIC__/home/upload/page7_05.png" class="ani resize" style="width:320px; bottom:45px;left: 0; z-index:5" swiper-animate-effect="fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="2s" alt="" />
+
+            </section>
+            <!--page5-->
+            <section class="swiper-slide swiper-bg5">
+                <form id="form" onsubmit="return false;">
+                    <div class="slide-form">
+                        <div class="slide-main">
+                            <div class="slide-f-title">
+                            <img src="__PUBLIC__/home/slidetitle.png" alt="" />
+                        </div>
+                        <div class="slide-f-main">
+                            <div class="control">
+                                <input type="text" name="n" class="form-control" placeholder="姓名" value="" />
+                            </div>
+                            <div class="control">
+                                <input type="text" name="p" class="form-control" placeholder="电话" value="" />
+                            </div>
+                            <div class="control">
+                                <input type="submit" style="border:0;"  class="btn btn-zu" value="预约看房"/>
+                            </div>
+                            <div class="control">
+                                <a href="tel:028-85330533" class="btn btn-zu">一键呼叫租赁顾问</a>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="slide-menu">
+                            <ul class="clearfix">
+                            <li><a class="load" href="/Home/Fct/map"><img src="__PUBLIC__/home/loushu.png"  />查看楼书</a></li>
+                            <li><a class="load" href="/Home/Fct/floo"><img src="__PUBLIC__/home/jishu.png"  />楼层标准</a></li>
+                            <li><a class="load" href="http://mp.weixin.qq.com/s?plg_nld=1&plg_uin=1&mid=402214701&idx=1&plg_nld=1&scene=23&plg_auth=1&__biz=MzA3NTg2NTk1OA%3D%3D&plg_dev=1&srcid=0309WWUxYNerEfGE6hYMb4ye&plg_usr=1&plg_vkey=1&sn=b0c19d1e89f1812ea56ebcea45ca9802#rd&appinstall=0"><img src="__PUBLIC__/home/weixin.png"  />关注我们</a></li>
+                            <li><a class="load" href="/"><img src="__PUBLIC__/home/xiangce.png"  />返回首页</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </form>
+            </section>
+        </div>
+        <img src="__PUBLIC__/home/upload/down.png" style="width:32px;top:440px; left:150px;" id="array" class="resize">
+
+
+    </div>
+    <script src="__PUBLIC__/layer/2.4/layer.js"></script>
+    <script>
+    scaleW = window.innerWidth / 320;
+    scaleH = window.innerHeight / 480;
+    var resizes = document.querySelectorAll('.resize');
+    for (var j = 0; j < resizes.length; j++) {
+        resizes[j].style.width = parseInt(resizes[j].style.width) * scaleW + 'px';
+        resizes[j].style.height = parseInt(resizes[j].style.height) * scaleH + 'px';
+        resizes[j].style.top = parseInt(resizes[j].style.top) * scaleH + 'px';
+        resizes[j].style.left = parseInt(resizes[j].style.left) * scaleW + 'px';
+
+    }
+    var scales = document.querySelectorAll('.txt');
+    for (var i = 0; i < scales.length; i++) {
+        ss = scales[i].style;
+        ss.webkitTransform = ss.MsTransform = ss.msTransform = ss.MozTransform = ss.OTransform = ss.transform = 'translateX(' + scales[i].offsetWidth * (scaleW - 1) / 2 + 'px) translateY(' + scales[i].offsetHeight * (scaleH - 1) / 2 + 'px)scaleX(' + scaleW + ') scaleY(' + scaleH + ') ';
+    }
+
+
+
+    $("#form").submit(function () {
+        var data = $('#form').serialize();
+        var reg = /^1\d{10}$/;
+        var p = $('#form').find('input[name="p"]');
+        var n = $('#form').find('input[name="n"]');
+        var c = $('#form').find('input[name="c"]');
+        if (n.val() == "") {
+//            alert('请输入姓名!');
+            parent.layer.msg("请输入姓名",{icon: 2,time:1000});
+            n.focus();
+            return;
+        } else if (!reg.test(p.val())) {
+//            alert('请输入11位的手机号!');
+            parent.layer.msg("请输入11位的手机号!",{icon: 2,time:1000});
+            p.focus();
+            return;
+        }
+        $.ajax({
+            type: 'POST',
+            url: '/Home/Fct/order',
+            data: data,
+            dataType: 'json',
+            success: function(data) {
+                console.log(data);
+                var arr = eval(data);
+                if(data == 200){
+                    parent.layer.msg("提交成功",{icon: 1,time:1000});
+                    document.getElementById('form').reset();
+                }
+                if(data == 400){
+                    parent.layer.msg("提交失败",{icon: 2,time:1000});
+                }
+            },
+        });
+    });
+    </script>
+    <script>
+        window.onload = function () {
+            //全部加载完成！！
+            // $(".loader-show").css({ "display": "none" });
+            $('.number-pb-shown').css({
+                "width": "100%",
+                "display":"none"
+            })
+            $(".loader-show").css({ "display": "none" });
+
+            var mySwiper = new Swiper('.swiper-container', {
+                direction: 'vertical',
+                pagination: '.swiper-pagination',
+                mousewheelControl: true,
+                onInit: function (swiper) { //Swiper2.x的初始化是onFirstInit
+                    swiperAnimateCache(swiper); //隐藏动画元素
+                    swiperAnimate(swiper); //初始化完成开始动画
+                },
+                onSlideChangeEnd: function (swiper) {
+                    swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
+                },
+                watchSlidesProgress: true,
+                onProgress: function (swiper) {
+                    for (var i = 0; i < swiper.slides.length; i++) {
+                        var slide = swiper.slides[i];
+                        var progress = slide.progress;
+                        var translate = progress * swiper.height / 4;
+                        scale = 1 - Math.min(Math.abs(progress * 0.5), 1);
+                        var opacity = 1 - Math.min(Math.abs(progress / 2), 0.5);
+                        slide.style.opacity = opacity;
+                        es = slide.style;
+                        es.webkitTransform = es.MsTransform = es.msTransform = es.MozTransform = es.OTransform = es.transform = 'translate3d(0,' + translate + 'px,-' + translate + 'px) scaleY(' + scale + ')';
+
+                    }
+                },
+                onSetTransition: function (swiper, speed) {
+                    for (var i = 0; i < swiper.slides.length; i++) {
+                        es = swiper.slides[i].style;
+                        es.webkitTransitionDuration = es.MsTransitionDuration = es.msTransitionDuration = es.MozTransitionDuration = es.OTransitionDuration = es.transitionDuration = speed + 'ms';
+
+                    }
+                },
+
+            });
+            var path = "http://7xnaef.com1.z0.glb.clouddn.com/fcgj_Intro.mp3";
+            var audio = new Audio();
+            var stop = false;
+            if (audio != null) {
+                audio.src = path;
+                audio.load();
+                audio.loop = true;
+                audio.play();
+            }
+            $('.test').remove().each(function () {
+                $('.music').click();
+                audio.play();
+            });
+            $('.music').on('touchstart click', function (ev) {
+                ev.preventDefault();
+                if (stop) {
+                    audio.play();
+                    $('.music').css('opacity', '1');
+                    $('.music').css('-webkit-animation-play-state', 'running');
+                } else {
+                    audio.pause();
+                    $('.music').css('opacity', '0.5');
+                    $('.music').css('-webkit-animation-play-state', 'paused');
+                }
+                stop = !stop;
+                return false;
+            });
+
+        }
+    </script>
+
+
+
+<script src="__PUBLIC__/home/jweixin-1.0.0.js"></script>
+
+<script>
+    wx.config({
+        debug: false, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId: '{$signPackage["appId"]}', // 必填，公众号的唯一标识
+        timestamp: '{$signPackage["timestamp"]}', // 必填，生成签名的时间戳
+        nonceStr: '{$signPackage["nonceStr"]}', // 必填，生成签名的随机串
+        signature: '{$signPackage["signature"]}',// 必填，签名，见附录1
+        jsApiList: [
+            'onMenuShareTimeline',
+            'onMenuShareAppMessage'
+        ]
+    });
+</script>
+<script>
+    //判断是否微信客户端
+    var ua = navigator.userAgent.toLowerCase();//获取判断用的对象
+    if (ua.match(/MicroMessenger/i) == "micromessenger") {
+        //监听"分享给朋友",按钮点击，自定义分享内容及分享结果接口
+        var p = window.location.port == "" ? "" : ":" + window.location.port
+        var url = window.location.protocol + '//' + window.location.host + p;
+        wx.ready(function () {
+            wx.onMenuShareAppMessage({
+                title: '复城国际T1楼书',
+                desc: '复城国际T1楼书',
+                link: 'http://fcgj.pthola.cn/map',
+                imgUrl: url + '/App_Themes/Public/image/fcgj_share.jpg',
+                trigger: function (res) {
+                    //不要尝试在trigger中使用ajax异步请求修改本次分享的内容，因为客户端分享操作是一个同步操作，这时候使用ajax的回包会还没有返回
+                    //alert('用户点击发送给朋友');
+                },
+                success: function (res) {
+                    //alert('已分享');
+                },
+                cancel: function (res) {
+                    //alert('已取消');
+                },
+                fail: function (res) {
+                    //alert(JSON.stringify(res));
+                }
+            });
+            wx.onMenuShareTimeline({
+                title: '复城国际T1楼书',
+                desc: '复城国际T1楼书',
+                link: 'http://fcgj.pthola.cn/map',
+                imgUrl: url + '/App_Themes/Public/image/fcgj_share.jpg',
+                trigger: function (res) {
+                    // 不要尝试在trigger中使用ajax异步请求修改本次分享的内容，因为客户端分享操作是一个同步操作，这时候使用ajax的回包会还没有返回
+                    //alert('用户点击分享到朋友圈');
+                },
+                success: function (res) {
+                    //alert('已分享');
+                },
+                cancel: function (res) {
+                    //alert('已取消');
+                },
+                fail: function (res) {
+                    //alert(JSON.stringify(res));
+                }
+            });
+            // config信息验证后会执行ready方法，所有接口调用都必须在config接口获得结果之后，config是一个客户端的异步操作，所以如果需要在页面加载时就调用相关接口，则须把相关接口放在ready函数中调用来确保正确执行。对于用户触发时才调用的接口，则可以直接调用，不需要放在ready函数中。
+        });
+    }
+    else {
+
+    }
+
+</script>  
+
+
+     <div class="card-loading loader">
+        加载中
+        <div class="loader-inner ball-beat">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+</body>
+</html>

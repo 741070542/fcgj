@@ -14,7 +14,7 @@ class WxController extends Controller {
     public function _initialize() 
     {
         require_once "jssdk.php";
-        $jssdk = new \JSSDK("wxe6309a2a21df1f53", "38d59526851d0fbfc57a598b512f83f2");
+        $jssdk = new \JSSDK(C("appID"),C("appsecret"));
         $signPackage = $jssdk->GetSignPackage();
         $this->assign('signPackage', $signPackage);
     }

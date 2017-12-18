@@ -1,0 +1,154 @@
+[ 2017-12-04T11:46:03+08:00 ] 127.0.0.1 /Home/corr/gywm/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+NOTIC: [2] file_get_contents(jsapi_ticket.php): failed to open stream: No such file or directory E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 49 行.
+NOTIC: [2] file_get_contents(access_token.php): failed to open stream: No such file or directory E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 71 行.
+NOTIC: [8] curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 76 行.
+NOTIC: [8] curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 55 行.
+NOTIC: [8] Undefined index: clid E:\fuchengguoji\Hakka\Home\Controller\CorrController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `hak_classs` [ RunTime:0.0612s ]
+SQL: SELECT * FROM `hak_classs` WHERE `is_an` = 1  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `hak_news` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `hak_news` WHERE `clas_id` = 9 ORDER BY sequencing desc LIMIT 0,10   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057966s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058070s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001382s ]
+
+[ 2017-12-04T16:08:17+08:00 ] 127.0.0.1 /Home/corr/gywm/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+NOTIC: [2] file_get_contents(jsapi_ticket.php): failed to open stream: No such file or directory E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 49 行.
+NOTIC: [2] file_get_contents(access_token.php): failed to open stream: No such file or directory E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 71 行.
+NOTIC: [8] curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 76 行.
+NOTIC: [8] curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 55 行.
+NOTIC: [8] Undefined index: clid E:\fuchengguoji\Hakka\Home\Controller\CorrController.class.php 第 36 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2017-12-04T16:08:48+08:00 ] 127.0.0.1 /Home/corr/gywm/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+NOTIC: [2] file_get_contents(jsapi_ticket.php): failed to open stream: No such file or directory E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 49 行.
+NOTIC: [2] file_get_contents(access_token.php): failed to open stream: No such file or directory E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 71 行.
+NOTIC: [8] curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 76 行.
+NOTIC: [8] curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 55 行.
+NOTIC: [8] Undefined index: clid E:\fuchengguoji\Hakka\Home\Controller\CorrController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `hak_classs` [ RunTime:0.0158s ]
+SQL: SELECT * FROM `hak_classs` WHERE `is_an` = 1  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0152s ]
+SQL: SELECT * FROM `hak_news` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `hak_news` WHERE `clas_id` = null ORDER BY sequencing desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000220s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000323s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077718s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077877s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021563s ]
+
+[ 2017-12-04T16:09:47+08:00 ] 127.0.0.1 /Home/corr/gywm/id/7?nsukey=UoVKQVOiDzTn59dbFLVjDro6%2Bp9by8XlGMR75fmmC7n0p5K1VEcNUGrsPgIFen7m6WCEUx4j4gG7RGAD5uSfcYZmb7WG3X7tczmiLWw5PZ06oHN1rKqE7F%2FBI30rm4k5RDoVqFp9%2BaB6H8T46qMKSOJBwKMYGl%2BJyJ9hofJJM1ND5%2FMF65ZQlFVE2hm5n4UvUNtwkpHJPY%2Bk%2BXg%2BLUP12Q%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+NOTIC: [2] file_get_contents(jsapi_ticket.php): failed to open stream: No such file or directory E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 49 行.
+NOTIC: [2] file_get_contents(access_token.php): failed to open stream: No such file or directory E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 71 行.
+NOTIC: [8] curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 76 行.
+NOTIC: [8] curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 55 行.
+NOTIC: [8] Undefined index: clid E:\fuchengguoji\Hakka\Home\Controller\CorrController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `hak_classs` [ RunTime:0.0159s ]
+SQL: SELECT * FROM `hak_classs` WHERE `is_an` = 1  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0178s ]
+SQL: SELECT * FROM `hak_news` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `hak_news` WHERE `clas_id` = null ORDER BY sequencing desc LIMIT 0,10   [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014298s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014395s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-12-04T16:10:02+08:00 ] 127.0.0.1 /Home/corr/gywm/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+NOTIC: [2] file_get_contents(jsapi_ticket.php): failed to open stream: No such file or directory E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 49 行.
+NOTIC: [2] file_get_contents(access_token.php): failed to open stream: No such file or directory E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 71 行.
+NOTIC: [8] curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 76 行.
+NOTIC: [8] curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object E:\fuchengguoji\Hakka\Home\Controller\jssdk.php 第 55 行.
+NOTIC: [8] Undefined index: clid E:\fuchengguoji\Hakka\Home\Controller\CorrController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `hak_classs` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `hak_classs` WHERE `is_an` = 1  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hak_news` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `hak_news` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `hak_news` WHERE `clas_id` = null ORDER BY sequencing desc LIMIT 0,10   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006929s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+

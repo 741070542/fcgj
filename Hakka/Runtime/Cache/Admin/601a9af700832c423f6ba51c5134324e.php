@@ -339,9 +339,12 @@
 <script src="/Public/js/custom.js"></script>
 
 <script type="text/javascript" src="/Public/layer/2.4/layer.js"></script>
-<script type="text/javascript" src="/Public/utf8-php/ueditor.config.js"></script>
-<script type="text/javascript" src="/Public/utf8-php/ueditor.all.min.js"> </script>
-<script type="text/javascript" src="/Public/utf8-php/lang/zh-cn/zh-cn.js"></script>
+<!--<script type="text/javascript" src="/Public/utf8-php/ueditor.config.js"></script>-->
+<!--<script type="text/javascript" src="/Public/utf8-php/ueditor.all.min.js"> </script>-->
+<!--<script type="text/javascript" src="/Public/utf8-php/lang/zh-cn/zh-cn.js"></script>-->
+<script type="text/javascript" charset="utf-8" src="/Public/utf8_qiniu_ueditor/ueditor.config.js"></script>
+<script type="text/javascript" charset="utf-8" src="/Public/utf8_qiniu_ueditor/ueditor.all.min.js"> </script>
+<script type="text/javascript" charset="utf-8" src="/Public/utf8_qiniu_ueditor/lang/zh-cn/zh-cn.js"></script>
 
 
   <script>

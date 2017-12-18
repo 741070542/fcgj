@@ -79,44 +79,22 @@
           </ul>
         </li>
 
+        <li class="nav-parent <?php if(($r) == "r"): ?>nav-active active<?php endif; ?>"><a href=""><i class="fa fa-picture-o"></i> <span>相册</span></a>
+          <ul class="children" <?php if(($r) == "r"): ?>style="display: block"<?php endif; ?>>
+            <li <?php if(($s) == "s"): ?>class="active"<?php endif; ?>><a href="<?php echo U('Admin/Album/index');?>"><i class="fa fa-caret-right"></i>相册列表</a></li>
+            <li <?php if(($j) == "j"): ?>class="active"<?php endif; ?>><a href="<?php echo U('Admin/Album/add');?>"><i class="fa fa-caret-right"></i>新增相册</a></li>
+          </ul>
+        </li>
 
-        <li class="nav-parent"><a href=""><i class="fa fa-bug"></i> <span>Bug Tracker</span></a>
-          <ul class="children">
-            <li><a href="bug-tracker.html"><i class="fa fa-caret-right"></i> Summary</a></li>
-            <li><a href="bug-issues.html"><i class="fa fa-caret-right"></i> Issues</a></li>
-            <li><a href="view-issue.html"><i class="fa fa-caret-right"></i> View Issue</a></li>
+        <li class="nav-parent <?php if(($u) == "u"): ?>nav-active active<?php endif; ?>"><a href=""><i class="fa fa-briefcase"></i> <span>商务服务</span></a>
+          <ul class="children" <?php if(($u) == "u"): ?>style="display: block"<?php endif; ?>>
+            <li <?php if(($v) == "v"): ?>class="active"<?php endif; ?>><a href="<?php echo U('Admin/Affairs/index');?>"><i class="fa fa-caret-right"></i>商务服务列表</a></li>
+            <li <?php if(($w) == "w"): ?>class="active"<?php endif; ?>><a href="<?php echo U('Admin/Affairs/add');?>"><i class="fa fa-caret-right"></i>新增商务服务</a></li>
           </ul>
         </li>
 
 
-        <li><a href="maps.html"><i class="fa fa-map-marker"></i> <span>Maps</span></a></li>
-        <li class="nav-parent"><a href=""><i class="fa fa-file-text"></i> <span>Pages</span></a>
-          <ul class="children">
-            <li><a href="calendar.html"><i class="fa fa-caret-right"></i> Calendar</a></li>
-            <li><a href="media-manager.html"><i class="fa fa-caret-right"></i> Media Manager</a></li>
-            <li><a href="timeline.html"><i class="fa fa-caret-right"></i> Timeline</a></li>
-            <li><a href="blog-list.html"><i class="fa fa-caret-right"></i> Blog List</a></li>
-            <li><a href="blog-single.html"><i class="fa fa-caret-right"></i> Blog Single</a></li>
-            <li><a href="people-directory.html"><i class="fa fa-caret-right"></i> People Directory</a></li>
-            <li><a href="profile.html"><i class="fa fa-caret-right"></i> Profile</a></li>
-            <li><a href="invoice.html"><i class="fa fa-caret-right"></i> Invoice</a></li>
-            <li><a href="search-results.html"><i class="fa fa-caret-right"></i> Search Results</a></li>
-            <li><a href="blank.html"><i class="fa fa-caret-right"></i> Blank Page</a></li>
-            <li><a href="notfound.html"><i class="fa fa-caret-right"></i> 404 Page</a></li>
-            <li><a href="locked.html"><i class="fa fa-caret-right"></i> Locked Screen</a></li>
-            <li><a href="signin.html"><i class="fa fa-caret-right"></i> Sign In</a></li>
-            <li><a href="signup.html"><i class="fa fa-caret-right"></i> Sign Up</a></li>
-          </ul>
-        </li>
-        <li class="nav-parent"><a href="layouts.html"><i class="fa fa-laptop"></i> <span>Skins &amp; Layouts</span></a>
-          <ul class="children">
-            <li><a href="layouts.html"><i class="fa fa-caret-right"></i> General Layouts</a></li>
-            <li><a href="horizontal-menu.html"><i class="fa fa-caret-right"></i> Top Menu</a></li>
-            <li><a href="horizontal-menu2.html"><i class="fa fa-caret-right"></i> Top Menu w/ Sidebar</a></li>
-            <li><a href="fixed-width.html"><i class="fa fa-caret-right"></i> Fixed Width Page</a></li>
-            <li><a href="fixed-width2.html"><i class="fa fa-caret-right"></i> Fixed Width w/ Menu</a></li>
-          </ul>
-        </li>
+
       </ul>
       <!-- infosummary -->
 
@@ -283,9 +261,12 @@
 <script src="/Public/js/custom.js"></script>
 
 <script type="text/javascript" src="/Public/layer/2.4/layer.js"></script>
-<script type="text/javascript" src="/Public/utf8-php/ueditor.config.js"></script>
-<script type="text/javascript" src="/Public/utf8-php/ueditor.all.min.js"> </script>
-<script type="text/javascript" src="/Public/utf8-php/lang/zh-cn/zh-cn.js"></script>
+<!--<script type="text/javascript" src="/Public/utf8-php/ueditor.config.js"></script>-->
+<!--<script type="text/javascript" src="/Public/utf8-php/ueditor.all.min.js"> </script>-->
+<!--<script type="text/javascript" src="/Public/utf8-php/lang/zh-cn/zh-cn.js"></script>-->
+<script type="text/javascript" charset="utf-8" src="/Public/utf8_qiniu_ueditor/ueditor.config.js"></script>
+<script type="text/javascript" charset="utf-8" src="/Public/utf8_qiniu_ueditor/ueditor.all.min.js"> </script>
+<script type="text/javascript" charset="utf-8" src="/Public/utf8_qiniu_ueditor/lang/zh-cn/zh-cn.js"></script>
 
 
   <script language="javascript" type="text/javascript">

@@ -1,6 +1,6 @@
 /*
 SQLyog Ultimate v11.24 (32 bit)
-MySQL - 5.5.24 : Database - fcgj
+MySQL - 5.5.47 : Database - fcgj
 *********************************************************************
 */
 
@@ -21,7 +21,11 @@ CREATE TABLE `hak_admin` (
   `last_login` int(11) DEFAULT '0' COMMENT '最后登录时间',
   PRIMARY KEY (`admin_id`),
   KEY `user_name` (`user_name`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+
+/*Data for the table `hak_admin` */
+
+insert  into `hak_admin`(`admin_id`,`user_name`,`password`,`add_time`,`last_login`) values (2,'admin','e10adc3949ba59abbe56e057f20f883e',0,1512373432);
 
 /*Table structure for table `hak_affairs` */
 
@@ -39,6 +43,8 @@ CREATE TABLE `hak_affairs` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=utf8;
 
+/*Data for the table `hak_affairs` */
+
 /*Table structure for table `hak_album` */
 
 CREATE TABLE `hak_album` (
@@ -51,6 +57,8 @@ CREATE TABLE `hak_album` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
 
+/*Data for the table `hak_album` */
+
 /*Table structure for table `hak_album_img` */
 
 CREATE TABLE `hak_album_img` (
@@ -62,6 +70,8 @@ CREATE TABLE `hak_album_img` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
 
+/*Data for the table `hak_album_img` */
+
 /*Table structure for table `hak_answer` */
 
 CREATE TABLE `hak_answer` (
@@ -72,6 +82,8 @@ CREATE TABLE `hak_answer` (
   `time` varchar(32) DEFAULT NULL COMMENT '处理时间',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+
+/*Data for the table `hak_answer` */
 
 /*Table structure for table `hak_classs` */
 
@@ -86,6 +98,8 @@ CREATE TABLE `hak_classs` (
   `sorting` int(11) DEFAULT NULL COMMENT '排序值',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8 COMMENT='商品分类';
+
+/*Data for the table `hak_classs` */
 
 /*Table structure for table `hak_lease` */
 
@@ -102,6 +116,8 @@ CREATE TABLE `hak_lease` (
   `time` varchar(32) DEFAULT NULL COMMENT '添加时间',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=18 DEFAULT CHARSET=utf8;
+
+/*Data for the table `hak_lease` */
 
 /*Table structure for table `hak_life` */
 
@@ -121,6 +137,8 @@ CREATE TABLE `hak_life` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8;
 
+/*Data for the table `hak_life` */
+
 /*Table structure for table `hak_lifeclas` */
 
 CREATE TABLE `hak_lifeclas` (
@@ -128,6 +146,8 @@ CREATE TABLE `hak_lifeclas` (
   `name` varchar(255) DEFAULT NULL COMMENT '分类名称',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
+
+/*Data for the table `hak_lifeclas` */
 
 /*Table structure for table `hak_message` */
 
@@ -143,6 +163,8 @@ CREATE TABLE `hak_message` (
   PRIMARY KEY (`id`),
   KEY `sysid` (`phone`)
 ) ENGINE=InnoDB AUTO_INCREMENT=57 DEFAULT CHARSET=utf8 ROW_FORMAT=COMPACT COMMENT='用户';
+
+/*Data for the table `hak_message` */
 
 /*Table structure for table `hak_news` */
 
@@ -160,6 +182,8 @@ CREATE TABLE `hak_news` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=21 DEFAULT CHARSET=utf8;
 
+/*Data for the table `hak_news` */
+
 /*Table structure for table `hak_news_rec` */
 
 CREATE TABLE `hak_news_rec` (
@@ -169,6 +193,8 @@ CREATE TABLE `hak_news_rec` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8;
 
+/*Data for the table `hak_news_rec` */
+
 /*Table structure for table `hak_news_recommend` */
 
 CREATE TABLE `hak_news_recommend` (
@@ -177,6 +203,8 @@ CREATE TABLE `hak_news_recommend` (
   `recommend_id` varchar(1000) DEFAULT NULL COMMENT '推荐新闻的id以逗号连接',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+/*Data for the table `hak_news_recommend` */
 
 /*Table structure for table `hak_room` */
 
@@ -204,6 +232,8 @@ CREATE TABLE `hak_room` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=20 DEFAULT CHARSET=utf8;
 
+/*Data for the table `hak_room` */
+
 /*Table structure for table `hak_room_img` */
 
 CREATE TABLE `hak_room_img` (
@@ -212,6 +242,8 @@ CREATE TABLE `hak_room_img` (
   `img` varchar(1000) DEFAULT NULL COMMENT '展示图片',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=34 DEFAULT CHARSET=utf8;
+
+/*Data for the table `hak_room_img` */
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;

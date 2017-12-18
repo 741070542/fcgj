@@ -1,0 +1,9 @@
+关于复星  http://www.fcgj.com:8080/Home/corr/gywm/id/7
+关于复地  http://www.fcgj.com:8080/Home/corr/gywm/id/8
+新闻动态  http://www.fcgj.com:8080/Home/Corr/gywm/clid/14.html
+TI楼书    http://www.fcgj.com:8080/Home/Fct/fct1
+租贷顾问  http://www.fcgj.com:8080/Home/Lease/lease
+推荐房源  http://www.fcgj.com:8080/Home/Recom/index
+项目导航  http://www.fcgj.com:8080/Home/Recom/baidu
+生活配套  http://www.fcgj.com:8080/Home/Life/index
+商务服务  http://www.fcgj.com:8080/Home/Life/bus
